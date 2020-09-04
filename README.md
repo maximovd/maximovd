@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: SenDevBot, my telegram bot
 - 🌱 I’m currently learning: aiohttp and golang
 - 💬 Ask me about: python and web
-- 📫 How to reach me: [Telegram](t.me/maximovd) | [Yandex Mail](mailto:bazinga.mail@yandex.ru)
+- 📫 How to reach me: [Telegram](https://t.me/maximovd) | [Yandex Mail](mailto:bazinga.mail@yandex.ru)
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=maximovd alt=maximovd /> </p>
